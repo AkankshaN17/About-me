@@ -1,9 +1,35 @@
-# 💫 About Me:
-I am a Java developer with a passion for building robust, scalable, and efficient applications. I have experience working with core Java concepts, object-oriented programming, and backend development. My expertise includes working with frameworks like Spring Boot, Hibernate, and RESTful APIs.<br><br>As a problem-solver, I enjoy tackling complex coding challenges and continuously improving my skills. Whether it’s optimizing application performance, debugging issues, or designing clean and maintainable code, I always strive for excellence.<br><br>In addition to Java, I am also expanding my knowledge in Salesforce development, exploring how I can integrate Java-based solutions with Salesforce’s platform. I am always eager to learn new technologies and collaborate with teams to create impactful software solutions.<br><br>
+# 🚀 Hi, I'm Akanksha | Java Full Stack Developer  
 
+## 💫 About Me:
+I am a **passionate and results-driven Full Stack Developer** with a strong background in building dynamic, scalable, and high-performance web applications.  
+My expertise lies in **Java-based backend development** and **modern front-end technologies** to create seamless and responsive user experiences.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+I thrive on solving complex problems, optimizing applications, and continuously improving my skill set to stay up-to-date with the latest industry trends.  
+
+---
+
+### 💻 Frontend Development  
+- ✅ HTML5, CSS3, JavaScript (ES6+)  
+- ✅ React.js, Bootstrap, Tailwind CSS  
+- ✅ Responsive Web Design, UI/UX Principles  
+
+### ⚙️ Backend Development  
+- ✅ Java SE, Java EE (JSP, Servlets)  
+- ✅ Spring Boot, Hibernate, RESTful APIs  
+- ✅ Microservices Architecture  
+
+### 🗄️ Database Management  
+- ✅ Oracle, MySQL, PL/SQL  
+- ✅ Writing complex SQL queries, Stored Procedures  
+- ✅ Database Optimization & Performance Tuning
+
+### 🛠 Other Tools & Technologies  
+- ✅ Git, GitHub
+- ✅ Eclipse IDE
+- ✅ Cloud Platforms (AWS)  
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkankshaN17&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AkankshaN17&theme=tokyonight&hide_border=false)<br/>
