@@ -52,7 +52,7 @@ I thrive on solving complex problems, optimizing applications, and continuously 
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkankshaN17&theme=dark)
+<img src="https://github-readme-streak-stats.vercel.app/?user=AkankshaN17&theme=dark" alt="GitHub Streak"/>
 
 ## 📫 Connect with Me
 
